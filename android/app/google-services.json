@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965088248991",
+    "project_id": "balancedmeal-df3df",
+    "storage_bucket": "balancedmeal-df3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965088248991:android:2dee8aa83576f802558eaa",
+        "android_client_info": {
+          "package_name": "com.example.balanced_meal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6uxTMe3bGfW57iOoKlIO9NhiXVeEvF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
